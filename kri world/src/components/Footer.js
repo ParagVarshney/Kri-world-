@@ -61,11 +61,12 @@ export default function Footer() {
       </div>
 
       {/* Divider + Copyright */}
-      <div className="border-t border-gray-300 mt-10 pt-4 text-center text-2xl text-gray-600">
+      <div className="border-t border-gray-300 mt-10 pt-4 pb-12 text-center text-2xl text-gray-600">
         © Copyright 2024 <span className="font-semibold">Kriworld</span>. All
         rights reserved
       </div>
     </footer>
   );
 }
+
 
